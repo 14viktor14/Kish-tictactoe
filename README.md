@@ -83,5 +83,5 @@ leo run make_move 2u8 2u8 2u8 "{ r1: { c1: 1u8, c2: 0u8, c3: 0u8 }, r2: { c1: 0u
 
 ## Deployment
 I also deployed the program to the Aleo blockchain<br>
-Program ID: kish_tictactoe.aleo<br>
-Deploy transaction: at1qg4ge73y778jj8xty9g6a57f6emq7nz2x32ejnllj05yp4g00uqss427yr
+Program ID: `kish_tictactoe.aleo`<br>
+Deploy transaction: `at1qg4ge73y778jj8xty9g6a57f6emq7nz2x32ejnllj05yp4g00uqss427yr`
