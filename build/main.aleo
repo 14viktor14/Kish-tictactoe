@@ -1,4 +1,4 @@
-program tictactoe.aleo;
+program kish_tictactoe.aleo;
 
 struct Row:
     c1 as u8;
